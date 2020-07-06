@@ -3,34 +3,3 @@
 body {
   font-family: 'Heebo', Arial, Helvetica, sans-serif;
 }
-
-#button {
-	border: none;
-	color: white;
-	padding: 4px 4px;
-	text-align: center;
-	text-decoration: none;
-	border-radius: 5px;
-	display: inline-block;
-	font-size: 16px;
-	text-align: center;
-	font-family: 'Heebo', Arial, Helvetica, sans-serif;
-}
-
-a {
-  color: #355070;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #4CAF50;
-}
-
-a:visited {
-  color: #355070;
-  text-decoration: none;
-}
-
-a:link:hover {
-  color: #355070;
-}
