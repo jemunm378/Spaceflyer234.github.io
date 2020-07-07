@@ -1,2 +1,2 @@
 # Website
-The beta version of my website.
+My website.
